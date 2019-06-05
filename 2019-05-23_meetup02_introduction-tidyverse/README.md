@@ -1,4 +1,4 @@
-# Meetup 2
+### Meetup 2
 
 # Introduction to the Tidyverse: Data wrangling
 
