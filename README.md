@@ -6,7 +6,7 @@ This repository is a collection of meetup presentations and additional materials
 
 ***
 
-
+<br>
 R-Ladies Frankfurt was founded in March 2019.
 
 Co-organizers: Sandra, Myriam, Lara, Natalie
@@ -15,7 +15,7 @@ Co-organizers: Sandra, Myriam, Lara, Natalie
 ***
 
 
-## Past Events
+### Past Events
 | **Meetup** | **Date** | **Title** | **Presenter(s)** | **Type** |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | `2019-04-12` | Kick-off R-Ladies Frankfurt | Sandra Pintor | Informal gathering |
@@ -25,7 +25,7 @@ Co-organizers: Sandra, Myriam, Lara, Natalie
 ***
 
 
-## Further information
+### Further information
 Upcoming events: [R-Ladies Frankfurt meetup group](https://www.meetup.com/rladies-frankfurt/)
 
 Additional information: [frankfurt@rladies.org](mailto:frankfurt@rladies.org)
