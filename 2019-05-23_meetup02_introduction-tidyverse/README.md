@@ -2,7 +2,7 @@
 
 ## R-Ladies Frankfurt Meetup 2
 
-This event was a tutorial in which we explored the `tidyverse. 
+This event was a tutorial in which we explored the `tidyverse`. 
 The tidyverse is a collection of R packages for data manipulation, exploration and visualization that share core programming principles. 
 Thus, they are easy to learn and offer basic tools to quickly become an R user. 
 
