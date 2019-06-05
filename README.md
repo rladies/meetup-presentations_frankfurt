@@ -19,7 +19,7 @@ Co-organizers: Sandra, Myriam, Lara, Natalie
 | **Meetup** | **Date** | **Title** | **Presenter(s)** | **Type** |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | `2019-04-12` | Kick-off R-Ladies Frankfurt | Sandra Pintor | Informal gathering |
-| 2 | `2019-05-23` | [Introduction to the `tidyverse`: Data wrangling](https://github.com/rladies/meetup-presentations_frankfurt/tree/master/2019-05-23_meetup02_introduction-tidyverse) | Sandra Pintor | Tutorial |
+| 2 | `2019-05-23` | [Introduction to the `tidyverse`: Data wrangling](./2019-05-23_meetup02_introduction-tidyverse) | Sandra Pintor | Tutorial |
 
 
 ***
