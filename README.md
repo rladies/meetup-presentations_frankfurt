@@ -6,7 +6,7 @@ This repository is a collection of meetup presentations and additional materials
 
 ***
 
-<br>
+
 R-Ladies Frankfurt was founded in March 2019.
 
 Co-organizers: Sandra, Myriam, Lara, Natalie
