@@ -21,6 +21,8 @@ Co-organizers: Sandra, Myriam, Lara, Natalie
 | 1 | `2019-04-12` | Kick-off R-Ladies Frankfurt | Sandra Pintor | Informal gathering |
 | 2 | `2019-05-23` | [Introduction to the `tidyverse`: Data wrangling](./2019-05-23_meetup02_introduction-tidyverse) | Sandra Pintor | Tutorial |
 | 3 | `2019-06-19`| [Data visualization in the `tidyverse`: `ggplot2`]() | Lara Vivian | Tutorial |
+| 3 | `2019-06-19`| [Data visualization in the `tidyverse`: `ggplot2`](./2019-06-19_meetup03_data-visualization-ggplot2) | Lara Vivian | Tutorial |
+| 4 | `2019-07-11` | [Code together: From messy data to insightful visualizations](./2019-07-11_meetup04_code-together) | | Code together |
 
 
 ***
