@@ -23,7 +23,7 @@ Co-organizers: Sandra, Myriam, Lara, Natalie
 | 3 | `2019-06-19`| [Data visualization in the `tidyverse`: `ggplot2`](./2019-06-19_meetup03_data-visualization-ggplot2) | Lara Vivian | Tutorial |
 | 4 | `2019-07-11` | [Code together: From messy data to insightful visualizations](./2019-07-11_meetup04_code-together) | Natalie Filmann | Code together |
 | 5 | `2019-08-08` | [Code together: From messy data to insightful visualizations - part 2](./2019-08-08_meetup05_code-together-part2) | Natalie Filmann | Code together |
-| 6 | `2019-09-12` | [Code together: From messy data to insightful visualizations](./2019-09-12_meetup06_git-github-gitkraken) | Frie | Tutorial |
+| 6 | `2019-09-12` | [LLet's git together: Introduction to git with github and gitkraken](./2019-09-12_meetup06_git-github-gitkraken) | Frie | Tutorial |
 
 
 ***

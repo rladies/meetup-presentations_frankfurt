@@ -13,4 +13,5 @@ This event was a tutorial in which we explored `git`, `github`, and `gitkraken`.
 
 
 **Source repository**
+
 The code for the exercises used in this tutorial can be found [here]().

@@ -6,11 +6,11 @@ This event was a tutorial in which we went through a workflow that explored how 
 
 ggplot2 is a well known visualization package from the popular set of packages known as tidyverse. In general, the tidyverse offers a collection of R packages for data manipulation, exploration and visualization that share core programming principles.  
 
+
 **Data**
 
 Over this tutorial, we used data from the package `eurostat`, in particular, the dataset [`yth_empl_140`](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=yth_empl_140&lang=en).
 
-**Presenter**
 **About the Presenter**
 
 **Lara Vivian**
