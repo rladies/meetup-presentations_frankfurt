@@ -2,7 +2,7 @@
 
 # Code together: From messy data to insightful visualizations - Part 2
 
-This event was a live coding session. In this event, we wrote code in order to develop proposed plots. For that, we continued to explore the dataset introduced in [meetup 4](./meetup-presentations_frankfurt/2019-07-11_meetup04_code-together).
+This event was a live coding session. In this event, we wrote code in order to develop proposed plots. For that, we continued to explore the dataset introduced in [meetup 4](https://github.com/rladies/meetup-presentations_frankfurt/tree/master/2019-07-11_meetup04_code-together).
 
 **Data**
 
