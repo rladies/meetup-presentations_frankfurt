@@ -11,6 +11,7 @@ ggplot2 is a well known visualization package from the popular set of packages k
 Over this tutorial, we used data from the package `eurostat`, in particular, the dataset [`yth_empl_140`](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=yth_empl_140&lang=en).
 
 **Presenter**
+**About the Presenter**
 
 **Lara Vivian**
 

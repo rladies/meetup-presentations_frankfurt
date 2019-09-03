@@ -1,8 +1,8 @@
-## Meetup 4
+## Meetup 5
 
-# Code together: From messy data to insightful visualizations
+# Code together: From messy data to insightful visualizations - Part 2
 
-This event was a live coding session. In this event, each of us wrote our own code. For that, we explored a new dataset by cleaning it and visualizing key information to tell a meaningful story out of our data.
+This event was a live coding session. In this event, we wrote code in order to develop proposed plots. For that, we continued to explore the dataset introduced in [meetup 4](./2019-07-11_meetup04_code-together).
 
 **Data**
 In this session, we used synthetic patient data prepared by Natalie. The data consisted of two datasets:
@@ -11,7 +11,7 @@ In this session, we used synthetic patient data prepared by Natalie. The data co
 * [lab data](https://github.com/NFilmann/RLadiesFRA/blob/master/labdata.csv)
 
 **Scripts**
-This [R script](https://github.com/NFilmann/RLadiesFRA/blob/master/Tidy.R) is an example of how we could clean these datasets.
+This [R script](https://github.com/NFilmann/RLadiesFRA/blob/master/Viz.R) is an example of potential plots created out of this data.
 
 **About the Presenter**
 
