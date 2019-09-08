@@ -6,7 +6,7 @@ This event was a tutorial in which we explored `git`, `github`, and `gitkraken`.
 
 **About the Presenter**
 
-**Frie**
+**Frie Preu** works as a data scientist / IT consultant at codecentric. Her journey with R started in 2012 at university. Frie really enjoys data wrangling, writing R packages, and building tools in and for R. In her free time, she volunteers as a core team member for CorrelAid, a data for good network with over 800 members.
 
 
 ***
