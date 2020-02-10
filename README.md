@@ -34,7 +34,7 @@ Co-organizers: Sandra, Myriam, Lara, Natalie
 ### Next Event
 | **Meetup** | **Date** | **Title** | **Additional information** |
 | :---: | :---: | :---: | :---: |
-| 9 | `2020-02-20` | Workflows for reproducible analyses using R | [Event page on meetup]() | 
+| 9 | `2020-02-20` | Workflows for reproducible analyses using R | [Event page on meetup](https://www.meetup.com/rladies-frankfurt/events/268608829/) | 
 
 
 ***
