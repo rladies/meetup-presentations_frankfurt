@@ -24,6 +24,17 @@ Co-organizers: Sandra, Myriam, Lara, Natalie
 | 4 | `2019-07-11` | [Code together: From messy data to insightful visualizations](./2019-07-11_meetup04_code-together) | Natalie Filmann | Code together |
 | 5 | `2019-08-08` | [Code together: From messy data to insightful visualizations - part 2](./2019-08-08_meetup05_code-together-part2) | Natalie Filmann | Code together |
 | 6 | `2019-09-12` | [Let's git together: Introduction to `git` with `github` and `gitkraken`](./2019-09-12_meetup06_git-github-gitkraken) | Frie Preu | Tutorial |
+| 7 | `2019-11-28` | [Hands-on linear regression in R: Packages for modelling and visualizing](./2019-11-28_meetup07_linear-regression) | Lara Vivian | Tutorial |
+| 8 | `2019-12-12` | R-Ladies Frankfurt: Christmas meetup | N.a. | Informal gathering |
+
+
+***
+
+
+### Next Event
+| **Meetup** | **Date** | **Title** | **Additional information** |
+| :---: | :---: | :---: | :---: |
+| 9 | `2020-02-20` | Workflows for reproducible analyses using R | [Event page on meetup]() | 
 
 
 ***
