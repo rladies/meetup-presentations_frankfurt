@@ -4,7 +4,7 @@
 
 This event was a tutorial about regression models using R. We explored popular packages available to model and visualize linear regressions in R.
 
-###Data
+### Data
 Over this tutorial, we used a subset of [EU KLEMS data](http://www.euklems.net).
 
 ### About the Presenter
